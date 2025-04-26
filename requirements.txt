@@ -1,0 +1,3 @@
+requestsflask
+redis
+matplotlib
